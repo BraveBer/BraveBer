@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BraveBer
 - 👀 I’m interested in programming and enjoy to code
-- 🌱 I’m currently learning stats & cs in college 
+- 🌱 I’m currently a college student major in stats & cs 
 - 💞️ I’m looking to collaborate on any fun and inspiring project
 - 📫 You can reach me by my email: suwenw2@gmail.com
 
